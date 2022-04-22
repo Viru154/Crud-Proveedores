@@ -1,0 +1,14 @@
+﻿  Cliente.cpp
+C:\Users\neryg\Desktop\C++conectado a mysql\proyectoCmasSQL\proyectoCmasSQL\Persona.h(12,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\neryg\Desktop\C++conectado a mysql\proyectoCmasSQL\proyectoCmasSQL\Persona.h(14,3): warning C4183: 'persona': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
+  ConexionBD.cpp
+  Persona.cpp
+C:\Users\neryg\Desktop\C++conectado a mysql\proyectoCmasSQL\proyectoCmasSQL\Persona.h(12,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\neryg\Desktop\C++conectado a mysql\proyectoCmasSQL\proyectoCmasSQL\Persona.h(14,3): warning C4183: 'persona': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
+  proyectoCmasSQL.cpp
+C:\Users\neryg\Desktop\C++conectado a mysql\proyectoCmasSQL\proyectoCmasSQL\Persona.h(12,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\neryg\Desktop\C++conectado a mysql\proyectoCmasSQL\proyectoCmasSQL\Persona.h(14,3): warning C4183: 'persona': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
+C:\Users\neryg\Desktop\C++conectado a mysql\proyectoCmasSQL\proyectoCmasSQL\proyectoCmasSQL.cpp(29,22): error C2512: 'Cliente': no hay disponible un constructor predeterminado adecuado
+C:\Users\neryg\Desktop\C++conectado a mysql\proyectoCmasSQL\proyectoCmasSQL\proyectoCmasSQL.cpp(29,22): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\neryg\Desktop\C++conectado a mysql\proyectoCmasSQL\proyectoCmasSQL\proyectoCmasSQL.cpp(29,12): error C2512: 'Cliente': no hay disponible un constructor predeterminado adecuado
+C:\Users\neryg\Desktop\C++conectado a mysql\proyectoCmasSQL\proyectoCmasSQL\Cliente.h(7,7): message : vea la declaración de 'Cliente'
